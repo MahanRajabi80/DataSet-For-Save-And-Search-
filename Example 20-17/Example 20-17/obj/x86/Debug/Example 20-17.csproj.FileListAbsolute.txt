@@ -1,0 +1,9 @@
+C:\Users\Server\Desktop\Example 20-17\Example 20-17\bin\Debug\Example 20-17.exe
+C:\Users\Server\Desktop\Example 20-17\Example 20-17\bin\Debug\Example 20-17.pdb
+C:\Users\Server\Desktop\Example 20-17\Example 20-17\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Server\Desktop\Example 20-17\Example 20-17\obj\x86\Debug\Example_20_17.Form1.resources
+C:\Users\Server\Desktop\Example 20-17\Example 20-17\obj\x86\Debug\Example_20_17.Properties.Resources.resources
+C:\Users\Server\Desktop\Example 20-17\Example 20-17\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Server\Desktop\Example 20-17\Example 20-17\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Server\Desktop\Example 20-17\Example 20-17\obj\x86\Debug\Example 20-17.exe
+C:\Users\Server\Desktop\Example 20-17\Example 20-17\obj\x86\Debug\Example 20-17.pdb
